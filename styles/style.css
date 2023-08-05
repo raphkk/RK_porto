@@ -347,7 +347,9 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .jquery {
   width: 30%;
 }
-
+.about-stats .progress-bars .progress-bar .progress-con .progress .mysql{
+  width: 50%;
+}
 .stat-title {
   text-transform: uppercase;
   font-size: 1.4rem;
