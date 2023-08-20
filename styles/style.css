@@ -350,14 +350,13 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .mysql{
   width: 50%;
 }
-
 .about-stats .progress-bars .progress-bar .progress-con .progress .nodejs{
   width: 60%;
 }
-
 .about-stats .progress-bars .progress-bar .progress-con .progress .expressjs{
   width: 60%;
 }
+
 .stat-title {
   text-transform: uppercase;
   font-size: 1.4rem;
